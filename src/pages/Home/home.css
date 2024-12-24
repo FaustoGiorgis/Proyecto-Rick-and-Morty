@@ -1,0 +1,27 @@
+.titulo{
+    color: green;
+}
+
+.fondo-blanco{
+    background-color: white;
+    opacity: 0.9;
+    height: 100%;
+    width: 45%;
+}
+
+h1{
+    color: #223142
+    
+}
+
+h2{
+    color: #223142
+}
+
+p{
+    color: #223142
+}
+
+@media (max-width: 768px) { 
+    
+  }

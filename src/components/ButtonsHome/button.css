@@ -1,0 +1,11 @@
+.botonHome{
+    padding: 10px;
+    background-color: #223142;
+    color: #b1f0dc;
+}
+
+.botonHome:hover{
+    background-color: #b1f0dc;
+    color:  #223142; 
+}
+

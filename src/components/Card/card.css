@@ -1,0 +1,56 @@
+.tarjeta{
+    background-color: #223142;
+    text-align: center;
+    border-color: #223142;
+}
+
+#personaje{
+    color: #b1f0dc;
+}
+
+.btn-warning {
+    background-color: #b1f0dc;
+    border-color: #b1f0dc;
+    margin-bottom: 10px;
+    float: right;
+    margin-right: 10px;
+}
+
+.btn-warning:hover {
+    background-color: #b1f0dc;
+    border-color: #b1f0dc;
+    
+}
+  
+  table {
+    margin-top: 10px;
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+  
+  th,td {
+    border-color:  black;
+    border-width: 1px;
+    padding: 8px;
+    text-align: left;
+    padding-top: 30px;
+    text-align: start;
+    font-size: larger;
+    color:white
+  }
+
+  td{
+    font-weight: 700;
+  }
+
+    td:hover {
+    background-color: #b1f0dc;
+    border-color: #b1f0dc;
+
+  }
+
+  th:hover {
+    background-color: #b1f0dc;
+    border-color: #b1f0dc;
+  }

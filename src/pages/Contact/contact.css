@@ -1,0 +1,17 @@
+.contacto{
+    background-color: rgba(92, 117, 146, .9);
+    opacity: 0.9;
+    width: 75%;
+    margin-top: 20px;
+}
+
+h1{
+    color: #223142;
+    text-align: center;
+}
+
+p{
+    color: black;
+    text-align: center;
+}
+

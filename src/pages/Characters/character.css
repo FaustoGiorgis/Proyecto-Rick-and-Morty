@@ -1,0 +1,26 @@
+.subt-1{
+    display: none;
+}
+.form{
+    display: none;
+}
+
+h2{
+    color: #344d67;
+    padding-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+@media(min-width:720px){
+    .mobile-filters{
+        display: none!important;
+    
+    }
+    .subt-1{
+        display: block;
+    }
+    .form{
+        display: flex;
+    }
+
+}

@@ -1,0 +1,22 @@
+nav{
+    background-color:#223142;
+    z-index: 1; 
+    
+
+}
+.activo{
+    color: #223142;
+    background-color: #b1f0dc ;
+    border-radius: 10%;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+
+nav a {
+    color:  #b1f0dc; 
+    text-decoration: none; 
+  }
